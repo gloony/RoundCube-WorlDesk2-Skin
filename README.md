@@ -3,9 +3,9 @@ Worldesk2 Skin for RoundCube, based Kolab Enterprise Web Client Skin
 You need my first Skin for display it.
 
 # Screenshots
-![WDKolab Theme](screenshots/Mail.jpg)
-![WDKolab Theme](screenshots/Contacts.jpg)
-![WDKolab Theme](screenshots/Settings.jpg)
+![WDKolab Theme Mail](screenshots/Mail.png)
+![WDKolab Theme Contacts](screenshots/Contacts.png)
+![WDKolab Theme Settings](screenshots/Settings.png)
 
 # Installation
 Extract all file on your skins folder of RoundCube
