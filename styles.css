@@ -17,10 +17,10 @@ body.login #header{
 	top:0;
 	padding: 0;
 }
-.button-mail, .button-ttrss, .button-calendar {
+.button-mail, .button-ttrss, .button-calendar, .button-tasklist {
 	position:relative;
 }
-.button-mail[data-badge]:after, .button-ttrss[data-badge]:after, .button-calendar[data-badge]:after {
+.button-mail[data-badge]:after, .button-ttrss[data-badge]:after, .button-calendar[data-badge]:after, .button-tasklist[data-badge]:after {
 	content:attr(data-badge);
 	position:absolute;
 	bottom:3px;
