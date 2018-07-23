@@ -1378,7 +1378,9 @@ composeheaders a.button,.previewheader .pagenav a.button,#composeheaders .pagena
 	background-position:right -5000px;
 	background-repeat:no-repeat;
 	color:#4c4c4c}
-#tasklistsbox .treelist li.selected>div span.listname,#calendars .treelist li.selected>div span.calname,#directorylist li.addressbook.selected>div a,.notesview #notebooks li.selected>div .listname,#files-folder-list ul li.selected>span.name{
+#calendaroptionsmenulink, #tasklistoptionsmenulink{
+	margin-left:0}
+#calendars .treelist li.selected>div span.calname,#directorylist li.addressbook.selected>div a,.notesview #notebooks li.selected>div .listname,#files-folder-list ul li.selected>span.name{
 	color:#fff !important}
 #directorylist li.addressbook.readonly{
 	background-position:98% -2121px}
