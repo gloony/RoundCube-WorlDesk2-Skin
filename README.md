@@ -1,3 +1,5 @@
+# Since elastic in 1.4, I will not continue this theme
+
 Worldesk2 Skin for RoundCube, based Kolab Enterprise Web Client Skin
 
 You need my first Skin for display it.
